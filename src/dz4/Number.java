@@ -1,3 +1,5 @@
+package dz4;
+
 public class Number {
     private int number = 10;
 
